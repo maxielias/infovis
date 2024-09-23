@@ -1,1 +1,13 @@
 flow maps
+visual encodings
+graphical perception
+visualization zoo
+chihuahuas and raccoons
+scalable vector graphics
+Time-Series Data
+horizon graph
+qq plots
+Scatter Plot Matrix
+stacked graphs
+Choropleth Maps
+Graduated Symbol Maps
